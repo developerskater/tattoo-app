@@ -12,4 +12,15 @@
  *
  *= require_tree .
  *= require_self
+ 
+ *= require font-awesome
+ *= require bootstrap.min.css
+ *= require gridstack.css
+ *= require spinners.css
+ *= require animate.css
+ *= require blue.css
+ *= require linea.css
+ *= require flag-icon.min.css
+
+
  */
